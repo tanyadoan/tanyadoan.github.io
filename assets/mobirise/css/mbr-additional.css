@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Shrikhand:400);
 @import url(https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i);
 
 
@@ -28,7 +29,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Shrikhand', display;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -43,10 +44,10 @@ body {
 }
 .display-5 {
   font-family: 'Raleway', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.92rem;
 }
 .display-7 {
   font-family: 'Raleway', sans-serif;
@@ -77,9 +78,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1288,33 +1289,12 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qKBMgggaQO {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background: #ffffff;
-}
-.cid-qKBMgggaQO .image-block {
-  margin: auto;
-}
-.cid-qKBMgggaQO figcaption {
-  position: relative;
-}
-.cid-qKBMgggaQO figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qKBMgggaQO .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qKBMEuYbR2 {
-  padding-top: 15px;
-  padding-bottom: 0px;
+.cid-qL4NRuIqm6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-qKBMEuYbR2 .mbr-section-subtitle {
+.cid-qL4NRuIqm6 .mbr-section-subtitle {
   color: #767676;
 }
 .cid-qKBHY2Tp4w {
