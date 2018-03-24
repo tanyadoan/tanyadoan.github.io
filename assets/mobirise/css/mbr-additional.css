@@ -1,6 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Shrikhand:400);
-@import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
 
 
@@ -23,11 +22,11 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 2.56rem;
 }
 .display-2 {
   font-family: 'Shrikhand', display;
@@ -37,21 +36,21 @@ body {
   font-size: 3.52rem;
 }
 .display-4 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.2rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 1.92rem;
 }
 .display-7 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -64,9 +63,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.76rem;
@@ -590,8 +589,8 @@ a:hover {
   color: #b7b7b7;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  opacity: 0 !important;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a {
   background: #444444;
@@ -673,7 +672,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -892,12 +891,12 @@ body {
   color: #767676;
   text-align: center;
 }
-.cid-qMnqWN4YTs {
-  padding-top: 90px;
-  padding-bottom: 0px;
+.cid-qN8c0ByL6y {
+  padding-top: 105px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-qMnqWN4YTs .mbr-section-subtitle {
+.cid-qN8c0ByL6y .mbr-section-subtitle {
   color: #767676;
 }
 .cid-qMnrH8roqQ .navbar {
@@ -1822,6 +1821,14 @@ body {
 .cid-qMhoLPrne5 blockquote {
   color: #767676;
 }
+.cid-qN84yUieGh {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qN84yUieGh .mbr-text {
+  color: #232323;
+}
 .cid-qMhEL6rLNg .navbar {
   background: #ffffff;
   transition: none;
@@ -2212,7 +2219,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qMhZt8q1oa {
-  padding-top: 120px;
+  padding-top: 30px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -2242,6 +2249,50 @@ body {
   background-color: white;
   padding: 0.5em 0.6em;
   width: 98%;
+}
+.cid-qN84YuuEK3 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qN84YuuEK3 a:link {
+  text-decoration: none;
+}
+.cid-qN84YuuEK3 .icon-transition span {
+  color: #ffffff;
+  display: block;
+  height: 3em;
+  line-height: 3em;
+  border-radius: 50%;
+  border: 2px solid #9b9b9b;
+  width: 3em;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  font-size: 14px;
+}
+.cid-qN84YuuEK3 .icon-transition span:hover {
+  background-color: #81dbff;
+}
+.cid-qN84YuuEK3 .inner-text {
+  line-height: 3em;
+}
+.cid-qN84YuuEK3 .social-media {
+  display: -webkit-flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-qN84YuuEK3 .social-media ul {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.cid-qN84YuuEK3 .social-media ul li {
+  padding: 4px;
+  display: inline-block;
+}
+.cid-qN84YuuEK3 .content-text,
+.cid-qN84YuuEK3 .inner-text {
+  color: #c1c1c1;
 }
 .cid-qMpaBexHqH {
   background-image: url("../../../assets/images/1325-berlin-2000x1333.jpg");
