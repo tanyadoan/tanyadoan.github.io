@@ -2626,6 +2626,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/critics-choice-2016-2-1500x973.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/critics-choice-2016-2-1500x973-800x519.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Critic's Choice Awards<br>Photography: Various / Getty Images",
+                "active": false
+              },
+              {
+                "tags": "Born This Way",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/kf-101-07122016-lh-2381-1500x1000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kf-101-07122016-lh-2381-1500x1000-800x533.jpg",
                 "alt": "",
@@ -2633,18 +2645,6 @@
                 "caption": "Knightfall<br>Photographer: Larry Horricks&nbsp;<br>",
                 "active": false,
                 "title": ""
-              },
-              {
-                "tags": "Born This Way",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/critics-choice-2016-2-1500x973.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/critics-choice-2016-2-1500x973-800x519.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Critic's Choice Awards<br>Photography: Various / Getty Images",
-                "active": false
               },
               {
                 "tags": "Born This Way",
