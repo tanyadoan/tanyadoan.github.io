@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tanya Doan",
-    "currentPage": "index.html",
+    "currentPage": "testimonials.html",
     "theme": {
       "name": "portfoliom4",
       "title": "PortfolioM4",
@@ -4808,7 +4808,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/szczecin-58-2000x1125.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -4827,7 +4827,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/szczecin-58-2000x1125.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -4840,6 +4840,25 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<i>Tanya is patient, thoughtful and a hard worker. She helped me navigate and train me in numerous photo editing systems and technologies when I began working at A+E Networks.  I can’t speak highly enough of her work ethic and photo editing skills. She most certainly would be an asset in any professional situation.</i><br><br><a href=\"https://www.tracynolanleeds.com/\" target=\"_blank\">Tracy Leeds</a><br>Senior Photo Producer, A+E Networks&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayColor": "#fcfcfc",
+                "overlayOpacity": "0.8"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/szczecin-58-2000x1125.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "VIDEO SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<i>As a photographer working in the Film and Television industry, it is vitally important to work with editors that understand the nature and landscape of the film-set and the inherent and distinct challenges that exist in the this realm. I have had the pleasure to work with Tanya on a very a demanding and lengthy project requiring close teamwork and communication in order to deliver the images that the project required. Without hesitation I can say that working with Tanya was one of the most rewarding and professional experiences I have enjoyed in the many years I have been doing this work.  </i><br><br><a href=\"http://www.larryhorricks.com\" target=\"_blank\">Larry Horricks</a><br>Society of Motion Picture Still Photographers &nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#fcfcfc",
                 "overlayOpacity": "0.8"
