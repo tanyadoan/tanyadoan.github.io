@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tanya Doan",
-    "currentPage": "index.html",
+    "currentPage": "testimonials.html",
     "theme": {
       "name": "portfoliom4",
       "title": "PortfolioM4",
@@ -4820,7 +4820,7 @@
                 "title": "VIDEO SLIDE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<i>I worked with Tanya for a two month period on an intense travel photography project here in Berlin. Tanya was instrumental in the project’s success and I thoroughly enjoyed working side by side with her. <br><br>What most impressed me about Tanya was her ability to jump in and problem solve and also carefully execute and achieve the desired look and feel for a specific style of post production.</i><br><br>Grace Farson<br>Senior Production Manager, EyeEm&nbsp;<br>",
+                "text": "<i>I worked with Tanya for a two month period on an intense travel photography project here in Berlin. Tanya was instrumental in the project’s success and I thoroughly enjoyed working side by side with her. <br><br>What most impressed me about Tanya was her ability to jump in and problem solve and also carefully execute and achieve the desired look and feel for a specific style of post production.</i><br><br><a href=\"http://www.gracefarson.com/\" target=\"_blank\">Grace Farson</a><br>Senior Production Manager, EyeEm&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#fcfcfc",
                 "overlayOpacity": "0.8"
