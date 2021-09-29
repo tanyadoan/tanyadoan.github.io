@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tanya Doan",
-    "currentPage": "index.html",
+    "currentPage": "englishteacher.html",
     "theme": {
       "name": "portfoliom4",
       "title": "PortfolioM4",
@@ -5797,7 +5797,7 @@
             "bgColorRadio": false,
             "bgColor": "#fafafa",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
@@ -6361,7 +6361,7 @@
           },
           "_name": "content2",
           "_sourceTheme": "portfoliom4",
-          "_customHTML": "<section class=\"mbr-section content2\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-8 col-sm-12 text-section\">\n                <h2 class=\"mbr-fonts-style mbr-title align-left pb-3\" mbr-if=\"showTitle\" data-app-selector=\".mbr-title\" mbr-theme-style=\"display-5\"><b>Let's Work Together!</b><br></h2>\n                <p class=\"mbr-fonts-style mbr-text align-left\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">My lessons are best suited for learners at intermediate level and above. You should already have a general conversational level of English. Rates begin at 25€ per hour and will vary based on the type of lesson.&nbsp;I customize my lessons to your needs.<br><br><b>I Offer:</b><br>* \t\t&nbsp;1 FREE 30 minute consultation&nbsp; <br>* \t\tOne-on-One Private or Small Group Lessons &nbsp; <br>* \t\tBusiness English <br>* \t\tTravel English&nbsp; <br>* \t\tVisual Arts / Photography / Design English&nbsp; <br>* Marketing English<br>* Conversational English<br>* \t\tSlang / Informal Dialogs: texting, social media, idioms <br><br><i>**online-only due to Covid-19</i>&nbsp;<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content2\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-8 col-sm-12 text-section\">\n                <h2 class=\"mbr-fonts-style mbr-title align-left pb-3\" mbr-if=\"showTitle\" data-app-selector=\".mbr-title\" mbr-theme-style=\"display-5\"><b>Let's Work Together!</b><br></h2>\n                <p class=\"mbr-fonts-style mbr-text align-left\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">My lessons are best suited for learners at intermediate level and above. You should already have a general conversational level of English. I customize my lessons to your needs.<br><br><b>I Offer:</b><br>* \t\t&nbsp;1 FREE 30 minute consultation&nbsp; <br>* \t\tOne-on-One Private or Small Group Lessons &nbsp; <br>* \t\tBusiness English <br>* \t\tTravel English&nbsp; <br>* \t\tVisual Arts / Photography / Design English&nbsp; <br>* Marketing English<br>* Conversational English<br>* \t\tSlang / Informal Dialogs: texting, social media, idioms <br><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "spjoOQlURd",
           "_anchor": "content2-4d",
           "_protectedParams": [],
